@@ -1,0 +1,35 @@
+html{
+    /* margin: 16px;  */
+    background-image: url("https://davidsuzuki.org/wp-content/uploads/2017/10/eye-glasses-table.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; 
+   
+  }
+  body{
+    /* background-image: url("https://davidsuzuki.org/wp-content/uploads/2017/10/eye-glasses-table.jpg");
+    background-size: cover;
+    background-repeat: no-repeat; */
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    max-width: 200px;
+    margin: auto;
+    text-align: center;
+    color:black;
+    font-size: 100%;
+    }
+  
+  li{
+    text-align: left;
+  }
+  
+  li:hover {
+    text-decoration: line-through;
+    color:black;
+  }
+  
+  input {
+    border-radius: 4px;
+    width: 100%;
+    padding: 15px; 
+  }
+  
+  
